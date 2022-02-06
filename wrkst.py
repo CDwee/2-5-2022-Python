@@ -132,8 +132,6 @@ print(animal_list.index('Kangaroo'))
 print(animal_list.index('Tucan'))
 print(animal_list.index('Humans'))
 
-# Ended at 7:02 So for an hour an 1 hour and 13 minutes
-# Going to do 47 minutes of Javascript and it wll total up to 2 hours.
-
+# Ended at 7:02 2-5-2022
 
 # /usr/local/bin/python3 /Volumes/Transcend/wrkst.py
